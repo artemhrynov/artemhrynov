@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yo, I'm Artiom
 
 <!--
 **artemhrynov/artemhrynov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
