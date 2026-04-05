@@ -1,9 +1,6 @@
 # Yo, I'm Artiom
  I'm bachelor student at **EPFL** in **Chemistry and Chemical Engineering Department**.
-## Contact me
-artem.hrynov@epfl.ch
 
-[My LinkedIn](www.linkedin.com/in/artem-hrynov-523957221)
 
 [My CV](CV.pdf)
 
