@@ -4,6 +4,9 @@
 artem.hrynov@epfl.ch
 
 [My LinkedIn](www.linkedin.com/in/artem-hrynov-523957221)
+
+[My CV](CV.pdf)
+
 <!--
 **artemhrynov/artemhrynov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
